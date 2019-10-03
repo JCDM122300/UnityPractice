@@ -1,2 +1,2 @@
 # UnityPractice
-Practiced with the 3D unity template
+Practiced with the 3D unity template for homework
